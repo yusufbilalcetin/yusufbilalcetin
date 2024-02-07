@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yusuf Bilal and I'm a Software Developer Engineer, from Turkey</h2>
+<h2 align="left">Hi 👋! My name is Yusuf Bilal.</h2>
 
 ###
 
